@@ -1,0 +1,21 @@
+remote-template: nrandecker/particle
+
+# Site settings
+title: Max Powis
+description: I am a Solution architect & Data Engineer
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Max Powis
+user_description: 'Data Engineer with deep functional and technical expertise in a wide range of data matters: data architecture, data modeling (data vaulting, dimensional modeling, ...), data integration, system integration. reference/master data management and business analytics (reporting & dashboarding).'
+user_title: Data Engineer
+email: max@pow.is
+twitter_username: maxpowis
+github_username:  maxpowis
+
+# Google-analytics
+google-analytics:
+  id: "UA-7735205-2"
+
+exclude: ['package.json', 'src' , 'node_modules']
