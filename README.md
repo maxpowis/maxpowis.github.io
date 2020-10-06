@@ -4,7 +4,7 @@
 ![license](https://img.shields.io/github/license/maxpowis/maxpowis.github.io)
 ![last commit](https://img.shields.io/github/last-commit/maxpowis/maxpowis.github.io)
 
-## www.maxpowis.be
+## max.pow.is
 
 Max Powis's personal website
 
