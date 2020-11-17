@@ -16,6 +16,6 @@ github_username:  maxpowis
 
 # Google-analytics
 google-analytics:
-  id: "UA-7735205-2"
+  id: "G-FJ9D6TFM54"
 
 exclude: ['package.json', 'src' , 'node_modules']
