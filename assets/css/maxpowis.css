@@ -1,12 +1,18 @@
+.tech-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* http://jsfiddle.net/webtiki/MpXYr/3/ */
 .square {
     float: left;
     position: relative;
     width: 20%;
-    padding-bottom: 20%; /* = width for a 1:1 aspect ratio */
-    margin: 1.66%;
-	border-width: 2px;
-	border-color: #1a222c;
+    max-width: 120px;
+    padding-bottom: min(120px, 20%); /* = width for a 1:1 aspect ratio */
+    margin-left: 1.66%;
+    margin-bottom: 1.66%;
     overflow: hidden;
 }
 
@@ -20,6 +26,8 @@
     display: table;
     width: 100%;
     height: 100%;
+    border:1.5px solid #1a222c;
+    border-radius: 20%;
 }
 .table-cell{
 	font-size: small;
