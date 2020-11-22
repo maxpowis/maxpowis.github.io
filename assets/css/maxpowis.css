@@ -1,3 +1,6 @@
+.user {
+    font-size: 16px;
+}
 .tech-icons {
     display: flex;
     justify-content: center;
@@ -10,8 +13,8 @@
     float: left;
     position: relative;
     width: 20%;
-    max-width: 120px;
-    padding-bottom: min(120px, 20%); /* = width for a 1:1 aspect ratio */
+    max-width: 100px;
+    padding-bottom: min(100px, 20%); /* = width for a 1:1 aspect ratio */
     margin-left: 1.66%;
     margin-bottom: 1.66%;
     overflow: hidden;
@@ -30,12 +33,13 @@
     border:1.5px solid #1a222c;
     border-radius: 20%;
 }
-.table-text{
-    font-size: 1vw;
+.table-text {
+    font-size: .9vw;
     display: table-cell;
     vertical-align: middle;
 }
-.table-icon{
+.table-icon {
+    font-size: 4vw;
     display: table-cell;
     vertical-align: middle;
 }
