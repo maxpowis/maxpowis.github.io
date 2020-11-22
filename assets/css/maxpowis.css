@@ -2,6 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 /* http://jsfiddle.net/webtiki/MpXYr/3/ */
@@ -29,8 +30,12 @@
     border:1.5px solid #1a222c;
     border-radius: 20%;
 }
-.table-cell{
-	font-size: small;
+.table-text{
+    font-size: 1vw;
+    display: table-cell;
+    vertical-align: middle;
+}
+.table-icon{
     display: table-cell;
     vertical-align: middle;
 }
