@@ -22,3 +22,14 @@ google-tag-manager:
   id: "TM-MTGW8DM"
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+collections:
+  redirects:
+    output: true
+
+defaults:
+  -
+    scope:
+      type: redirects
+    values:
+      layout: redirect
