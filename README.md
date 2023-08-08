@@ -4,8 +4,22 @@
 ![license](https://img.shields.io/github/license/maxpowis/maxpowis.github.io)
 ![last commit](https://img.shields.io/github/last-commit/maxpowis/maxpowis.github.io)
 
-## max.pow.is
+# max.pow.is
 
 Max Powis's personal website
 
-__Content development in progress__
+## Running the blog in local
+
+In order to compile the assets and run Jekyll on local you need to follow those steps:
+
+- Install [NodeJS](https://nodejs.org/)
+- Install [Jekyll](https://jekyllrb.com): `sudo gem install bundler jekyll`
+- Install [Yarn](https://yarnpkg.com/): `npm install -g yarn`
+- Install dependencies: `yarn`
+- Run: `gulp`
+
+## Credits
+
+This website was designed using a Jekyll theme from [Nathan Randecker](https://github.com/nrandecker/particle)
+
+Updated with latest dependencies in 2023 by [ax Powis](https://github.com/maxpowis/particle)
