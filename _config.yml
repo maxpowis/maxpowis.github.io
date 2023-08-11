@@ -9,15 +9,13 @@ description: I am a Solution architect & Data Engineer
 # User settings
 username: Max Powis
 user_description: 'I am a data engineer with deep functional and technical expertise in a wide range of data matters: data architecture, 
-   data modeling, data integration, system integration, reference data, master data management and business analytics.'
+   data modeling, data integration, system integration, reference data management and business analytics.'
 user_title: Data Expert
 email: max@pow.is
 twitter_username: maxpowis
 github_username:  maxpowis
 
 # Google-analytics
-google-analytics:
-  id: "G-FJ9D6TFM54"
 google-tag-manager:
   id: "GTM-MTGW8DM"
 
