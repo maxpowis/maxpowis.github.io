@@ -12,6 +12,7 @@ user_description: 'I am a data engineer with deep functional and technical exper
    data modeling, data integration, system integration, reference data management and business analytics.'
 user_title: Data Expert
 email: max@pow.is
+linkedin_username: maxpowis
 twitter_username: maxpowis
 github_username:  maxpowis
 
@@ -28,6 +29,7 @@ collections:
 defaults:
   -
     scope:
+      path: _redirects
       type: redirects
     values:
       layout: redirect
