@@ -19,7 +19,7 @@ github_username:  maxpowis
 google-analytics:
   id: "G-FJ9D6TFM54"
 google-tag-manager:
-  id: "TM-MTGW8DM"
+  id: "GTM-MTGW8DM"
 
 exclude: ['package.json', 'src' , 'node_modules']
 
