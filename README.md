@@ -22,4 +22,4 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 
 This website was designed using a Jekyll theme from [Nathan Randecker](https://github.com/nrandecker/particle)
 
-Updated with latest dependencies in 2023 by [ax Powis](https://github.com/maxpowis/particle)
+Updated with latest dependencies in 2023 by [Max Powis](https://github.com/maxpowis/particle)
